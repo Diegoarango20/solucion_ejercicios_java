@@ -6,7 +6,7 @@ public class solucion4 {
 
         /* Descuento en Compra */
 
-        double compra = 20;
+        double compra = 80;
         double descuento = 0;
 
         if (compra > 100) {
