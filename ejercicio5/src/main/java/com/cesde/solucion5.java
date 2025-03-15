@@ -2,7 +2,7 @@ package com.cesde;
 
 public class solucion5 {
     public static void main(String[] args) {
-        System.out.println("Hola Profe Jhon");
+        System.out.println("Hola Profe Jhon!");
 
         /* Verificador de Número Positivo, negativo o cero */
 
