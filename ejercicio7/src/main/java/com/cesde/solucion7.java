@@ -6,7 +6,7 @@ public class solucion7 {
 
         /* Calculadora de IMC */
 
-        double peso = 75;
+        double peso = 100;
         double altura = 1.75;
 
         double imc = peso / (altura * altura);
