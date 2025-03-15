@@ -2,7 +2,7 @@ package com.cesde;
 
 public class solucion2 {
     public static void main(String[] args) {
-        System.out.println("Hola Profe Jhon");
+        System.out.println("Hola Profe Jhon!");
 
         /* Número Par o Impar */
 

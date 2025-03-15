@@ -6,7 +6,7 @@ public class solucion5 {
 
         /* Verificador de Número Positivo, negativo o cero */
 
-        int numero = 0;
+        int numero = 20;
 
         if (numero > 0) {
             System.out.println("El numero es positivo");
