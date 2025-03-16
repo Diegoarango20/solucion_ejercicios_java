@@ -26,14 +26,5 @@ public class solucion8 {
 
 
 
-
-
-
-
-
-
-
-
-
     }
 }
