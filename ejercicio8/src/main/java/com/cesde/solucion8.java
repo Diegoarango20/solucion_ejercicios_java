@@ -19,8 +19,8 @@ public class solucion8 {
         minutosrestantes = minutos % 60;
         horas = minutos / 60;
         
-        System.out.println("La cantidad de dias es " + dias + " La cantidad de horas es " + horas + " y la cantidad de minutos son " 
-        + minutosrestantes);
+        System.out.println("La cantidad de dias es " + dias + " La cantidad de horas es " + horas +
+         " y la cantidad de minutos son " + minutosrestantes);
 
      
 
