@@ -1,0 +1,22 @@
+package com.cesde;
+
+public class solucion14 {
+    public static void main(String[] args) {
+        System.out.println("Hola Profe Jhon!");
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+}
